@@ -1,52 +1,46 @@
-# Google Fonts Files
+# Google字体文件
 
-This project contains the binary font files served by Google Fonts: https://fonts.google.com
+此项目包含Google字体提供的二进制字体文件: https://fonts.google.com
 
-The top level directories indicate the license of all files found within them.
-Subdirectories are named according to the family name of the fonts within. 
+顶级目录指示其中找到的所有文件的许可证。子目录根据其中的字体的姓氏命名。
+每个系列子目录包含.ttf由Google字体提供的 字体文件，以及包含METADATA.pb该系列元数据的文件（例如项目设计人员，类型和许可证的信息 - 了解更多信息）以及包含该系列的详细信息。美国英语。
 
-Each family subdirectory contains the  `.ttf` font files served by Google Fonts, plus a `METADATA.pb` file with metadata for the family (such as information on the project designer(s), genre category, and license - [learn more](https://github.com/googlefonts/gf-docs/tree/master/METADATA)) and a `DESCRIPTION.en_us.html` with a description of the family in US English.
 
-## Bug reports and improvement requests
 
-If you find a problem with a font file or have a request for future development of a font project, please [create a new issue in this project's issue tracker](https://github.com/google/fonts/issues).
+## 错误报告和改进请求
 
-## Self Host Fonts Available From Google Fonts
+如果您发现字体文件有问题或要求将来开发字体项目, please [create a new issue in this project's issue tracker](https://github.com/google/fonts/issues).
+
+可从Google字体中获取的自主主机字体
 
 Since all the fonts available here are licensed with permission to redistribute, subject to the license terms, you can self-host.
 For help doing this, see <https://github.com/majodev/google-webfonts-helper>
 
-## Download All Google Fonts
+##下载所有Google字体
 
-You can download all Google Fonts in a simple ZIP snapshot (over 300MB) from <https://github.com/google/fonts/archive/master.zip>
+您可以从以简单的ZIP快照（超过300MB）下载所有Google字体<https://github.com/google/fonts/archive/master.zip>
 
-#### Sync With Git
+#### 与Git同步
 
-You can also sync the collection with git so that you can update by only fetching what has changed.
-To learn how to use git, Github provides [illustrated guides](https://guides.github.com) and a [youtube channel](https://www.youtube.com/user/GitHubGuides), and a [learning game that takes just 15 minutes](https://try.github.io). 
+您还可以使用git同步集合，以便只通过获取已更改的内容进行更新。为了学习如何使用git，Github提供了
+插图指南 [illustrated guides](https://guides.github.com) and a [youtube channel](https://www.youtube.com/user/GitHubGuides), and a [learning game that takes just 15 minutes](https://try.github.io). 
 Free, open source git applications are available for [Windows](https://msysgit.github.io) and [Mac OS X](http://gitx.laullon.com).
 
-## Licensing
+## 许可
 
-It is important to always read the license for every font that you use.
-Each font family directory contains the appropriate license file for the fonts in that directory. 
-The fonts files themselves also contain licensing and authorship metadata.
+始终阅读您使用的每种字体的许可证非常重要。每个字体系列目录都包含该目录中字体的相应许可证文件。字体文件本身还包含许可和作者身份元数据。
 
-Most of the fonts in the collection use the SIL Open Font License, v1.1.
-Some fonts use the Apache 2 license. 
-The Ubuntu fonts use the Ubuntu Font License v1.0. 
+该集合中的大多数字体使用SIL Open Font License，v1.1。某些字体使用Apache 2许可证。Ubuntu字体使用Ubuntu Font License v1.0。
 
-The SIL Open Font License has an option for copyright holders to include a Reserved Font Name requirement, and this option is used with some of the fonts. 
-If you modify those fonts, please take care of this important detail.
+SIL Open Font License允许版权所有者包含保留字体名称要求，此选项与某些字体一起使用。如果您修改这些字体，请注意这一重要细节。
 
-## Source Files
+## 源文件
 
-Source files for each family are often available from the designer, or from https://github.com/googlefonts 
+每个系列的源文件通常可从设计人员或, or from https://github.com/googlefonts 
 
-These fonts are usually the result of collaborative projects, where you are invited to discuss issues with the designers and even contribute to their ongoing development.
+这些字体通常是协作项目的结果，您可以邀请他们与设计师讨论问题，甚至为他们的持续开发做出贡献。
 
-When customizing or remixing fonts, please do contact the designers to understand what they might need in order to include your improvements.
+在自定义或重新混合字体时，请联系设计人员以了解他们可能需要哪些内容以包含您的改进。
 
-Most of all: Enjoy the fonts!
+最重要的是：享受字体！
 
-– The Google Fonts team, 2015-06-18
